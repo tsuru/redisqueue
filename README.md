@@ -6,7 +6,7 @@ monsterqueue is a task queue implementation in Go with multiple backends.
 
 ## Documentation
 
-See [http://godoc.org/github.com/tsuru/monsterqueue](http://godoc.org/github.com/tsuru/monsterqueue)
+See [documentation](http://godoc.org/github.com/tsuru/monsterqueue)
 for instructions.
 
 ## Backends
